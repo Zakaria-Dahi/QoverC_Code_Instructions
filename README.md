@@ -3,7 +3,8 @@
 <img src="https://github.com/Zakaria-Dahi/QoverC/blob/main/assets/img/3d_logo.gif">
 </div>
 
-**Programmer:** Zakaria Abdelmoiz DAHI et al. :shipit:
+**Programmer/Author:** Zakaria Abdelmoiz DAHI et al. :shipit:
+**Institution:** National French Research Institute on Informatics and Automation (Inria), University of Lille.
 
 **About:** 
 
